@@ -1,4 +1,4 @@
-# College Football Recruiting - Geographic Analysis
+# Geographic Analysis and Mapping - College Football Recruiting 
 
 Github PAGES repository where I can publish visualizations and analysis of geo-coded College football recruiting data.
 
